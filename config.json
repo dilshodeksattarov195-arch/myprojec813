@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssncrypt",
+        "uuid": 1165029,
+        "checksum": "jw5ifg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
